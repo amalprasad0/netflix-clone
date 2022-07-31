@@ -4,12 +4,14 @@ position: fixed;
 left: 20px;
 width: 80px;
 top:10px;
+cursor: pointer;
 }
 .avatar{
     position: fixed;
     right: 20px;
     width: 30px;
     top:5px;
+    cursor: pointer;
 }
 .navbar{
     position: fixed;
